@@ -22,7 +22,5 @@ pub struct UserPool{
 
 
 impl UserPool {
-    pub const DATA_SIZE :usize =32 + 2; 
+    pub const DATA_SIZE :usize =32 + 2;
 }
-
-
